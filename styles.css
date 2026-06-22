@@ -2964,9 +2964,10 @@ main { flex: 1 0 auto; }
   display: flex;
   flex-direction: column;
   gap: 12px;
-  align-items: flex-start;
+  align-items: center;
   padding-inline-start: 0;
   padding-inline-end: 0;
+  padding-inline: 0;
 }
 
 .index-cta-section__benefit-item {
@@ -2978,9 +2979,9 @@ main { flex: 1 0 auto; }
   line-height: 1.6;
   color: var(--text-light);
   text-align: start;
-  width: auto;
+  width: 100%;
   min-width: auto;
-  justify-content: flex-start;
+  justify-content: center;
   margin-left: 0;
   margin-right: 0;
 }
