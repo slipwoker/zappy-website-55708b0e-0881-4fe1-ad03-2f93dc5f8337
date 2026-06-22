@@ -2964,7 +2964,7 @@ main { flex: 1 0 auto; }
   display: flex;
   flex-direction: column;
   gap: 12px;
-  align-items: center;
+  align-items: flex-start;
   padding-inline-start: 0;
   padding-inline-end: 0;
 }
@@ -2978,7 +2978,7 @@ main { flex: 1 0 auto; }
   line-height: 1.6;
   color: var(--text-light);
   text-align: start;
-  width: auto;
+  width: fit-content;
   min-width: auto;
   justify-content: flex-start;
   margin-left: auto;
