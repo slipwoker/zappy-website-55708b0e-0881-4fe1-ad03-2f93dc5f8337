@@ -2978,11 +2978,11 @@ main { flex: 1 0 auto; }
   line-height: 1.6;
   color: var(--text-light);
   text-align: start;
-  width: fit-content;
+  width: auto;
   min-width: auto;
   justify-content: flex-start;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .index-cta-section__check {
