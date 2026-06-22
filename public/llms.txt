@@ -1,0 +1,67 @@
+# התוכנית לאומנויות הטיפול — Generative Engine Optimization Map
+
+> A pioneering Israeli training program called 'The Arts of Therapy' led by clinical psychologist Keren Sela and Patricia Yahav, founder of the Source Method. The program targets therapists who feel knowledgeable but lack professional confidence and a unified framework. It offers an integrative holistic approach connecting body, mind, consciousness, and soul, positioning itself as the first of its kind in Israel. The brand voice is warm, empowering, and deeply spiritual yet professional — combining psychological credibility with personal growth and healing energy. The webinar page serves as the top-of-funnel entry point to a paid certification program.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+וובינר חינמי למטפלים רגשיים שמוכנים לצמוח. בואו לגלות איך לפתח ביטחון מקצועי עמוק דרך הכשרה אינטגרטיבית גוף נפש נשמה. המקום שלכם למסע ריפוי מעצים מתחיל כאן!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (text)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About התוכנית לאומנויות הטיפול
+A pioneering Israeli training program called 'The Arts of Therapy' led by clinical psychologist Keren Sela and Patricia Yahav, founder of the Source Method. The program targets therapists who feel knowledgeable but lack professional confidence and a unified framework. It offers an integrative holistic approach connecting body, mind, consciousness, and soul, positioning itself as the first of its kind in Israel. The brand voice is warm, empowering, and deeply spiritual yet professional — combining psychological credibility with personal growth and healing energy. The webinar page serves as the top-of-funnel entry point to a paid certification program.
+
+## Target Audience
+- מטפלים רגשיים והוליסטיים, מאמנים, מנחי תהליכים ואנשי מקצוע מעולמות ההתפתחות האישית – בתחילת הדרך ומנוסים כאחד
+- מטפלים רגשיים והוליסטיים
+- מאמנים ומנחי תהליכים
+- אנשי מקצוע מעולמות ההתפתחות האישית
+
+## Industry
+Health & Wellness Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
