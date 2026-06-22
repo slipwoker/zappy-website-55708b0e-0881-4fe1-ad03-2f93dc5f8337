@@ -2981,6 +2981,8 @@ main { flex: 1 0 auto; }
   width: auto;
   min-width: auto;
   justify-content: flex-start;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .index-cta-section__check {
