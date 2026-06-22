@@ -2977,7 +2977,8 @@ main { flex: 1 0 auto; }
   line-height: 1.6;
   color: var(--text-light);
   text-align: start;
-  width: fit-content;
+  width: auto;
+  min-width: 340px;
 }
 
 .index-cta-section__check {
