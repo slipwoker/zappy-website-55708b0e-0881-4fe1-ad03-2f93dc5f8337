@@ -2985,7 +2985,7 @@ main { flex: 1 0 auto; }
   text-align: start;
   width: 100%;
   min-width: auto;
-  justify-content: center;
+  justify-content: flex-start;
   margin-left: 0;
   margin-right: 0;
 }
